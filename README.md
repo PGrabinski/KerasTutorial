@@ -1,2 +1,3 @@
 # KerasTutorial
-Following "Deep Learning with Python" Textbook
+Following "Deep Learning with Python" Textbook - Keras framework introduction
+
